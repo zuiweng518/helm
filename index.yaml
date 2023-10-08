@@ -9,6 +9,6 @@ entries:
     name: my-app
     type: application
     urls:
-    - https://zuiweng518.github.io/helm/my-app-0.1.0.tgz
+    - https://zuiweng518.github.io/helm/my-app.0.1.0.tgz
     version: 0.1.0
 generated: "2023-09-21T13:58:07.5772562+08:00"
